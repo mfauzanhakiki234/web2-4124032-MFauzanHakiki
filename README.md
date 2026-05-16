@@ -10,4 +10,4 @@
 | 3 | Muhammad Idzhar Farhan | 4124050 |
 
 ## Screenshot Halaman Welcome Laravel
-![Halaman Welcome Laravel](Welcome_Laravel.jpg)
+![Halaman Welcome Laravel](./Welcome_Laravel.jpg)
